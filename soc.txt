@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+		<title> Hello world ! </title>
+    </head>
+    
+    <body>
+      <textarea name="messsage" cols="30" rows="5">
+     welcome to our society
+
+      </textarea>
+
+
+     <video>
+       <source src="https://youtu.be/iRsV6YpLsKA">
+     </video>
+<table border="2">
+  <tr>
+    <th>name</th>
+    <th>age</th>
+    <th>occupation</th>
+  </tr>
+    <tr>
+      <td>mouhib</td>
+      <td>24</td>
+      <td>technicien electrique</td>  
+      
+    </tr>
+   <tr>
+     <td>saleh</td>
+     <td>28</td>
+     <td>ingenieur mecanique</td>
+   </tr>
+   <tr>
+     <td>rahim</td>
+     <td>29</td>
+     <td>technicien mecanique</td>
+   </tr>
+     
+</table>
+<form>
+  Search <input type = "text" name = "search" />
+</form>
+<img src="https://compte-pro.b-cdn.net/wp-content/uploads/2012/06/duree-d-une-societe-commerciale-des-principes-communs-a-l-ensemble-des-societes-768x576.jpg"
+			alt="society"></img>
+  </body>
+</html>
